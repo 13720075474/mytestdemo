@@ -21,6 +21,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"!!!!!!!!!");
+     NSLog(@"!!!!!!!!!"); NSLog(@"!!!!!!!!!"); NSLog(@"!!!!!!!!!"); NSLog(@"!!!!!!!!!"); NSLog(@"!!!!!!!!!"); NSLog(@"!!!!!!!!!");
 }
 
 - (void)viewWillAppear:(BOOL)animated {
